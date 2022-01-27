@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vignesh
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning ReactJS and MERN Stack
 - 💞️ I’m looking to collaborate on any projects related to react that helps me know the library better..
 - 📫 How to reach me ... [LinkedIn](https://www.linkedin.com/in/vignesh-g-0023aa116/)  |  [Facebook](https://www.facebook.com/vignesh.gopal.73/about)
 - 👨‍💼 [My Portfolio](https://www.leanbeast.in) 
